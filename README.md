@@ -17,7 +17,7 @@ This yields a single score for each episode.
 The environment is considered solved, when the average (over 100 episodes) of those scores is at least +0.5.
 
 
-# The Environment
+## How to Start!
 Follow the instructions below to explore the environment on your own machine! You will also learn how to use the Python API to control your agent.
 
 ## Step 1: Activate the Environment
