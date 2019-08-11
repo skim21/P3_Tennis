@@ -15,10 +15,3 @@ The task is episodic, and in order to solve the environment, your agents must ge
 
 This yields a single score for each episode.
 The environment is considered solved, when the average (over 100 episodes) of those scores is at least +0.5.
-
-Note
-The project environment is similar to, but not identical to the Tennis environment on the Unity ML-Agents GitHub page.
-
-You are required to work with the environment that we will provide as part of the project.
-
-In particular, your project submission should not use the environment on the ML-Agents GitHub page.
